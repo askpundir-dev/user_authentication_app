@@ -34,6 +34,7 @@ This project was created as part of an internship assignment.
 
 ## ✅ Project Structure
 
+```bash
 src/
 │
 ├── pages/
@@ -47,6 +48,7 @@ src/
 │
 ├── App.tsx
 ├── main.tsx
+```
 
 ---
 
