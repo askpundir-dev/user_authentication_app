@@ -58,7 +58,7 @@ src/
 
 ```bash
 git clone https://github.com/askpundir-dev/user_authentication_app.git
-cd user-authentication-app
+cd user_authentication_app
 ```
 
 ### 2. Install dependencies
