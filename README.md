@@ -5,7 +5,9 @@ Users can register, log in, and view/update their profile information.
 This project was created as part of an internship assignment.
 
 ---
-# [!Live Demo]()
+
+# [!Live Demo](user-authh.netlify.app)
+
 ## ✅ Features
 
 ✔ User Registration (email, username, password)  
