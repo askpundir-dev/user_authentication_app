@@ -8,7 +8,7 @@ This project was created as part of an internship assignment.
 
 🔗 [Live Demo](http://user-authh.netlify.app)
 
-## ✅ Features
+## 📱 Features
 
 ✔ User Registration (email, username, password)  
 ✔ Login authentication  
@@ -22,7 +22,7 @@ This project was created as part of an internship assignment.
 
 ---
 
-## ✅ Tech Stack
+## ⚙️ Tech Stack
 
 | Technology   | Usage                            |
 | ------------ | -------------------------------- |
@@ -34,7 +34,7 @@ This project was created as part of an internship assignment.
 
 ---
 
-## ✅ Project Structure
+## 🏣 Project Structure
 
 ```bash
 src/
@@ -82,3 +82,25 @@ npm run dev
 👉 http://localhost:5173
 
 (or the URL shown in terminal)
+
+## 🔩 Future Improvements
+
+- Password strength meter
+
+- Backend API integration
+
+- JWT-based authentication
+
+- Forgot password flow
+
+---
+
+## 📱 Screenshots
+
+### ➡️ Login Page
+
+![Login Page](screenshots/user-login.png)
+
+### 🔍 Registration Page
+
+![Registration Page](screenshots/user-registration.png)
