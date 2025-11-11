@@ -6,7 +6,7 @@ This project was created as part of an internship assignment.
 
 ---
 
-# [!Live Demo](user-authh.netlify.app)
+🔗 [Live Demo](http://user-authh.netlify.app)
 
 ## ✅ Features
 
