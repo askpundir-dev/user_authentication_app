@@ -54,9 +54,29 @@ src/
 
 ## ✅ Getting Started
 
-### ✅ 1. Clone the repository
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/user-authentication-app.git
+git clone https://github.com/askpundir-dev/user_authentication_app.git
 cd user-authentication-app
 ```
+
+### 2. Install dependencies
+
+```bash
+npm install
+
+```
+
+### 3. Run the development server
+
+```bash
+npm run dev
+
+```
+
+### Now open the app in the browser:
+
+👉 http://localhost:5173
+
+(or the URL shown in terminal)
